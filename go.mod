@@ -1,0 +1,3 @@
+module arsymedes.github.io/hacktiv-assignment-1
+
+go 1.20
